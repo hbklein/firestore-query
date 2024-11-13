@@ -1,1 +1,1 @@
-<a src=https://github.com/hbklein/firestore-query><p>link to github repository</p></a>
+<p> <a src=https://github.com/hbklein/firestore-query>link to github repository</a></p>
